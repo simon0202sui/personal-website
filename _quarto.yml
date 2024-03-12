@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Pengyu Sui"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pengyu_sui_resume.pdf
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

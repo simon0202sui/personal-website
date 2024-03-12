@@ -1,0 +1,5 @@
+---
+title: ""
+---
+
+I am an undergraduate student at the University of Toronto, St. George's campus, pursuing a double major in Economics and Statistics. I have gained practical experience through an internship with Inspur Group, where I applied my knowledge in real-world projects. Proficient in programming languages such as Python, R, and SQL.
